@@ -15,4 +15,4 @@ price,” “accessory price,” and “spending threshold,” as well as a
 variable for your “bank account balance.”
 • You should define functions for calculating the tax and for formatting
 the price with a “$” and rounding to two decimal
-places
+places.
